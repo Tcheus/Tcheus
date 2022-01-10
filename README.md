@@ -1,4 +1,4 @@
-## Olá eu sou o MAtheus Alencar
+## Olá eu sou o Matheus Alencar
 - 🐱‍🏍 Atualmete sou estudante de programação
 - 🙌 Estudando JavaScript
 - 😁 Pronous: Ele/Dele
