@@ -1,13 +1,23 @@
 ## Olá <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> I'm Matheus Alencar
+
+
+
+
 <div style="display: inline_block"><br>
-- <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/97318345/148842574-3b1bd49d-d1df-4da5-8272-3f0446b327f6.png" 
+   <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/97318345/148842574-3b1bd49d-d1df-4da5-8272-3f0446b327f6.png" 
 </div>
-  ❤️ <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/97318345/148843387-53a42792-8446-47fe-a487-9afc79e418f1.png"
+   ♥ <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/97318345/148843387-53a42792-8446-47fe-a487-9afc79e418f1.png"
  </div><br/>
-- 🐱‍🏍 I am currently a programming student.<br/>
-- 🙌 Studying JavaScript<br/>
-- 😁 Pronouns: He/Her
-<div align="center">
+
+  - Nationality: Brazilian 💚<br/>
+
+  - 🐱‍🏍 I am currently a programming student.<br/>
+
+  - 🙌 Studying JavaScript<br/>
+
+  - 😁 Pronouns: He/Her<br/><br/>
+
+  <div align="center">
   <a href="https://github.com/Tcheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcheus&layout=compact&langs_count=7&theme=dark"/>
