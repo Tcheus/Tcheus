@@ -1,7 +1,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> I'm Matheus Alencar
-- 🐱‍🏍 Atualmete sou estudante de programação
-- 🙌 Estudando JavaScript
-- 😁 Pronous: Ele/Dele
+- 🐱‍🏍 I am currently a programming student.
+- 🙌 Studying JavaScript
+- 😁 Pronouns: He/Her
 <div align="center">
   <a href="https://github.com/Tcheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
