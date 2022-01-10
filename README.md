@@ -18,4 +18,4 @@
 
   ### • **Social networks**
 
-[![LinkedIn](./.github/linkedin.png)](https://www.linkedin.com/in/matheus-alencar-feitoza-4518511b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alencar-feitoza-4518511b0/)
