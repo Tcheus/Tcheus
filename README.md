@@ -15,7 +15,7 @@
 
   - 🙌 Studying JavaScript<br/>
 
-  - 😁 Pronouns: He/Her<br/><br/>
+  - 😁 Pronouns: He<br/><br/>
 
   
   
